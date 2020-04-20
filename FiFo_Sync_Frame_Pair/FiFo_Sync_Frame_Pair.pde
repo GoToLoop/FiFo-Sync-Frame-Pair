@@ -1,5 +1,5 @@
 /**
- * FiFo Sync Frame Pair (v1.0.0)
+ * FiFo Sync Frame Pair (v1.0.1)
  * GoToLoop (2020/Apr/20)
  *
  * Discourse.Processing.org/t/read-from-2-videos-at-the-same-time/19937/3
@@ -32,7 +32,7 @@ void setup() {
 }
 
 void draw() {
-  if (framesA.isEmpty() || framesB.isEmpty())  return;
+  if (framesB.isEmpty() || framesA.isEmpty())  return;
 
   final PImage frameA = framesA.remove();
   final PImage frameB = framesB.remove();
