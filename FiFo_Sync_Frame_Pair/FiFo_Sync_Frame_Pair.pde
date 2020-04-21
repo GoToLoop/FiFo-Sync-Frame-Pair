@@ -2,7 +2,7 @@
  * FiFo Sync Frame Pair (v1.0.1)
  * GoToLoop (2020/Apr/20)
  *
- * Discourse.Processing.org/t/read-from-2-videos-at-the-same-time/19937/3
+ * Discourse.Processing.org/t/read-from-2-videos-at-the-same-time/19937/4
  * GitHub.com/GoToLoop/FiFo-Sync-Frame-Pair
  */
 
